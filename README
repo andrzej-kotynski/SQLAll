@@ -1,0 +1,25 @@
+HOLD SHIFT AND RIGHT-CLICK IN THE REPOS FOLDER -> OPEN IN POWERSHELL
+git remote add origin https://github.com/a-kotynski/SQLAll.git
+git branch -M main
+git push -u origin main
+
+
+
+
+https://www.youtube.com/watch?v=gd1GT5gfIPk
+https://www.youtube.com/watch?v=AW_U0q5BtFI
+
+---run PowerShell---
+
+
+
+enter:
+Opening PowerShell in a folder:
+HOLD SHIFT AND RIGHT-CLICK IN THE REPOS FOLDER -> OPEN IN POWERSHELL
+OR
+cd PATH_COPIED_FROM_FILE_EXPLORER
+
+Creating the folder: Type "md" and then name the folder
+
+then enter:
+git clone LINK_TO_GITHUB_REPOSITORY
